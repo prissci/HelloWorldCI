@@ -33,7 +33,7 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://ip172-18-0-15-c4ihpuvnjsv000fq75v0-8081.direct.labs.play-with-docker.com/nexus/content/repositories/releases/</url>
+			<url>http://ip172-18-0-114-c4ihrc7njsv000fq7690-8081.direct.labs.play-with-docker.com/nexus/content/repositories/releases/>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
